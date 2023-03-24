@@ -52,13 +52,13 @@ I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, P
 
 #
 
-📈 ### Stats
+### 📈 Stats
 
 ![Elija's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elijah-I&show_icons=true&theme=gruvbox)
 
 #
 
-### 🤙 How to reach me:
+### 📱 How to reach me:
 
 <a href="https://t.me/Elijah_I" target="_blank" style="display: block; margin-bottom: 10px;">
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/telegram.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;Elijah_I</a>
