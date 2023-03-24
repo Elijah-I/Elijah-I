@@ -1,4 +1,4 @@
-🖥️ # Elijah Ivanik
+# 🖥️ Elijah Ivanik
 
 **`Web developer (fullstack | DB | design | DevOps)`**
 
