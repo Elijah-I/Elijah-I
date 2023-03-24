@@ -58,7 +58,7 @@ I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, P
 
 #
 
-### 📱 How to reach me:
+### ☎ How to reach me:
 
 <a href="https://t.me/Elijah_I" target="_blank" style="display: block; margin-bottom: 10px;">
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/telegram.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;Elijah_I</a>
