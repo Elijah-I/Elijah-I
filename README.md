@@ -78,7 +78,7 @@ I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, P
 <br />
 <br />
 
-<a href="skype:live:elferno_2?chat" target="_blank" style="display: block; margin-bottom: 10px;">
+<a href="#" target="_blank" style="display: block; margin-bottom: 10px;">
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/skype.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;elferno_2</a>
 
 <br />
