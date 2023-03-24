@@ -78,10 +78,12 @@ I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, P
 <br />
 <br />
 
-<p><img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/skype.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;live:elferno_2</p>
-
-<br />
-<br />
-
 <a href="mailto:elferno@inbox.ru" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/email.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;elferno@inbox.ru</a>
+
+<br />
+<br />
+
+<p><img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/skype.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;live:elferno_2</p>
+
+
