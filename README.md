@@ -78,8 +78,7 @@ I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, P
 <br />
 <br />
 
-<a href="#" target="_blank" style="display: block; margin-bottom: 10px;">
-<img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/skype.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;elferno_2</a>
+[<img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/skype.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;live:elferno_2](skype:live:elferno_2)
 
 <br />
 <br />
