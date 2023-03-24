@@ -78,13 +78,5 @@ I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, P
 <br />
 <br />
 
-<p>
-<a href="skype:live:elferno_2" target="_blank" style="display: block; margin-bottom: 10px;">
-<img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/skype.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;Elijah-I#5510</a>
-  </p>
-
-<br />
-<br />
-
 <a href="mailto:elferno@inbox.ru" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/email.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;elferno@inbox.ru</a>
