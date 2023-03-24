@@ -64,20 +64,24 @@ I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, P
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/telegram.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;Elijah_I</a>
 
 <br />
+<br />
 
 <a href="https://wa.me/79220210805" target="_blank" style="display: block; margin-bottom: 10px;">
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/whatsapp.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;+7 (922) 021-08-05</a>
 
+<br />
 <br />
 
 <a href="https://discordapp.com/users/Elijah-I#5510" target="_blank" style="display: block; margin-bottom: 10px;">
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/discord.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;Elijah-I#5510</a>
 
 <br />
+<br />
 
 <a href="skype:live:elferno_2?chat" target="_blank" style="display: block; margin-bottom: 10px;">
-<img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/skype.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;live:elferno_2</a>
+<img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/discord.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;live:elferno_2</a>
 
+<br />
 <br />
 
 <a href="mailto:elferno@inbox.ru" target="_blank">
