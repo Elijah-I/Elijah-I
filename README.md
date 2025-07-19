@@ -42,16 +42,6 @@ I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, P
   <img src="https://skillicons.dev/icons?i=solidity" style="opacity: 0.3" />
 </p>
 
-#
-
-### 📚 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,jest" />
-</p>
-
-#
-
 ### 📈 Stats
 
 ![Elija's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elijah-I&show_icons=true&theme=gruvbox)
