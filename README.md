@@ -1,8 +1,16 @@
 # 🖥️ Elijah Ivanik
 
-**`Web developer (fullstack | DB | design | DevOps)`**
+**`Senior Frontend developer (7+ years of experience)`**
 
-I've been programming since I was 18. Have a wide expirience in JS, HTML, CSS, PHP, MySQL. Been working a lot so usually had no time for education. Today my main goal is to catch up modern technology stack and approach to programming. Looking forward for: React + Redux, SCSS, GIT, patterns, REST API, maybe some server side stuff too.
+• Senior Frontend Engineer with 7+ years of experience in React and TypeScript, specializing in building
+scalable, high-performance web applications.
+• Proven track record of delivering complex, high-impact projects, such as a scalable HR platform for
+100,000+ users, optimizing system stability and improving performance by reducing total bundle size by 6%.
+• Expertise in leading cross-functional teams, implementing micro-frontends, and optimizing workflows,
+resulting in a 40% increase in sprint efficiency and faster feature delivery. Expanded teams through 50+
+interviews and hiring 8 key engineers.
+• Strong problem-solving skills and the ability to exceed goals, evidenced by ranking first in functionality
+produced among 50,000 employees at a leading IT holding company in the country.
 
 <br />
 <br />
