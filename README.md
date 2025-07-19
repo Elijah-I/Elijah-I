@@ -4,11 +4,14 @@
 
 • Senior Frontend Engineer with 7+ years of experience in React and TypeScript, specializing in building
 scalable, high-performance web applications.
+<br />
 • Proven track record of delivering complex, high-impact projects, such as a scalable HR platform for
 100,000+ users, optimizing system stability and improving performance by reducing total bundle size by 6%.
+<br />
 • Expertise in leading cross-functional teams, implementing micro-frontends, and optimizing workflows,
 resulting in a 40% increase in sprint efficiency and faster feature delivery. Expanded teams through 50+
 interviews and hiring 8 key engineers.
+<br />
 • Strong problem-solving skills and the ability to exceed goals, evidenced by ranking first in functionality
 produced among 50,000 employees at a leading IT holding company in the country.
 
