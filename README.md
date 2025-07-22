@@ -71,18 +71,7 @@ produced among 50,000 employees at a leading IT holding company in the country.
 <br />
 <br />
 
-<a href="https://discordapp.com/users/Elijah-I#5510" target="_blank" style="display: block; margin-bottom: 10px;">
-<img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/discord.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;Elijah-I#5510</a>
-
-<br />
-<br />
-
 <a href="mailto:elferno@inbox.ru" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/email.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;elferno@inbox.ru</a>
-
-<br />
-<br />
-
-<p><img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/skype.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;live:elferno_2</p>
 
 
