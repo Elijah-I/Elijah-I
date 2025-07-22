@@ -71,7 +71,7 @@ produced among 50,000 employees at a leading IT holding company in the country.
 <br />
 <br />
 
-<a href="mailto:elferno@inbox.ru" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/email.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;elferno@inbox.ru</a>
+<a href="mailto:elijah.ivanik@gmail.com" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/Elijah-I/Elijah-I/main/email.png" style="padding-bottom: 3px; width: 25px;">&nbsp;&nbsp;elijah.ivanik@gmail.com</a>
 
 
